@@ -45,6 +45,7 @@ Links are given
 <img width="1064" height="439" alt="Blynk Datastreams" src="https://github.com/user-attachments/assets/f8e5a5b3-6589-459e-acd3-9db45a85ea1d" />
 <img width="1064" height="439" alt="Blynk Web Dashboard" src="https://github.com/user-attachments/assets/aa7d3217-e00e-4f05-905a-6f2a369e0e9c" />
 <img width="439" height="1064" alt="Blynk Mobile App Dashboard" src="https://github.com/user-attachments/assets/43b5980d-bac8-4bcc-a43a-dbb078f72494" />
+
 > configure Blynk on website and mobile application
 
 6. Use the previous code, and just add your authentication token, template ID and name. Include your WiFi ssid and password too so that your ESP32 can be connected to internet and Blynk server. Open file labelled "Mini_Project_BSI_V2" for reference on what Im talking about.
