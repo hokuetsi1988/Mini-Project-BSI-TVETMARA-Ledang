@@ -5,12 +5,12 @@
 - [x] Components youre gonna use
 - [x] Workflow Explanation (Library Preruisites)
 - [x] Flowchart
-- [ ] Circuit diagram
+- [x] Circuit diagram
 - [x] Prototype setup
 - [x] Source Code
 - [x] Blynk Config (Both web and mobile)
 - [ ] Design Sketches
-- [ ] Final Product
+- [x] Final Product
 - [ ] Conclusion
 
 ### 💡 Introduction
