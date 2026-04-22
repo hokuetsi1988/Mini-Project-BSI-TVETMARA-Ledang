@@ -9,7 +9,7 @@
 - [x] Prototype setup
 - [x] Source Code
 - [x] Blynk Config (Both web and mobile)
-- [ ] Design Sketches
+- [x] Design Sketches
 - [x] Final Product
 - [ ] Conclusion
 
